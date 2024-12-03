@@ -1,0 +1,3 @@
+models\Barang.class
+classes\JDBC.class
+controllers\BarangServlet.class
